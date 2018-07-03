@@ -1,4 +1,4 @@
-###Determining technical severity of vulnerabilities using CVSS v3
+### Determining technical severity of vulnerabilities using CVSS v3
 
 There are many ways different entities and security assessors determine the severity of a vulnerability. One of the ways is the use of the Common Vulnerability Scoring System (CVSS) by FIRST.
 
