@@ -4,7 +4,7 @@
 
 Just like any software, smart contracts can be and should undergo security review. Smart contracts undergo a review that covers technical coding problems and a review of business logic implemented by the contract. Similar to the security code review for typical web applications or other desktop computer software, the auditor reads the code of configuration and benefits from documentation relating to the business requirement and operation of the software. The importance of security review is heightened for Smart Contracts, since the blockchain network that it is based on has transactions that are reconciled & duplicated across many decentralized nodes in an "append-only" transaction log chain.
 
-#####Real life example
+##### Real life example
 On June 17, 2016, a hacker found a vulnerability that allowed him to drain funds from a Decentralized Autonomous Organization that was known as "The DAO" or "Genesis DAO". In the first few hours of the attack, 3.6 million Ethers (the natural unit of the Ethereum blockchain) were stolen, the equivalent of US $70 million at the time.
 
 In this exploit, the attacker was able to “ask” the smart contract (DAO) to give the Ether back multiple times before the smart contract could update its balance. Two main issues made this possible: the fact that when the DAO smart contract was created the coders did not take into account the possibility of a recursive call and the fact that the smart contract first sent the ETH funds and then updated the internal token balance.
@@ -40,7 +40,7 @@ Both manual and automated efforts have to be used to find security issues in the
 The use of test tools such as Solhint and Solium can be used to detect errors at the source code level while tools such as Mythril and Manticore are intended to detect security problems at the behavioural level. Engaging experienced reviewers to check for more complex attacks such as transaction reordering and denial of service by interaction between several contracts.
 
 
-#####References:
+##### References:
 
 * [Formalizing and Securing Relationships on Public Networks, Nick Szabo](http://ojphi.org/ojs/index.php/fm/article/view/548/469)
 *  [Bitcoin is not just digital currency. It's Napster for finance, Fortune](http://fortune.com/2014/01/21/bitcoin-is-not-just-digital-currency-its-napster-for-finance/)
