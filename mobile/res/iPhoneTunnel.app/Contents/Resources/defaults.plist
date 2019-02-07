@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>volNameRoot</key>
+	<string>myiPhoneRoot</string>
+	<key>volNameMobile</key>
+	<string>myiPhoneMobile</string>
+	<key>localPort</key>
+	<integer>2222</integer>
+	<key>devicePort</key>
+	<integer>22</integer>
+	<key>tetheringPort</key>
+	<integer>9999</integer>
+</dict>
+</plist>
