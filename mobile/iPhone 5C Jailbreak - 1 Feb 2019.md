@@ -1,4 +1,4 @@
-##Looking to jailbreak iPhone 5 and  iPhone 5C?
+## Looking to jailbreak iPhone 5 and  iPhone 5C?
 
 I had quite a bit of problem getting SSH access to my iPhone 5C (Model A1456). Here are the steps I took to gain eventual access. Do take a look if you have trouble following the usual routes.
 
@@ -25,7 +25,7 @@ Sine iOS 10.3.3 is the last update for iPhone 5C, it means that the jailbreak pr
 17. You will need to clear your SSH key from the known_hosts folder if you had connected via SSH to any device using the same port. The file location on MacOS may be in /Users/josz5930/.ssh/, if your user name is "josz5930".
 18. Change your password to a long and complex password.
 
-References:
+#### References:
 
 * https://www.theiphonewiki.com/wiki/H3lix
 * https://cydia.saurik.com/info/com.saurik.afc2d/
@@ -33,4 +33,5 @@ References:
 * https://iphonedevwiki.net/index.php/SSH_Over_USB
 * https://support.apple.com/en-us/HT204397
 * https://support.apple.com/en-us/HT204460
-* https://github.com/josz5930/secarticles/tree/master/mobile/res/iPhoneTunnel.app/Contents
+* https://github.com/josz5930/secarticles/tree/master/mobile/res/iPhoneTunnel.app/
+* Current link to iPhoneTunnel for Mac: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/iphonetunnel-mac/iPhoneTunnel2.3-beta1.zip
