@@ -4,7 +4,7 @@ I had quite a bit of problem getting SSH access to my iPhone 5C (Model A1456). H
 
 h3lix is a semi-untethered jailbreak for 32-bit devices running any version of iOS 10, developed by tihmstar and Siguza. h3lix works by sideloading an IPA using Cydia Impactor. It is one of five jailbreak projects based on the v0rtex exploit, the others being Saïgon for some 64-bit devices on 10.2.1, g0blin for some 64-bit devices on 10.3-10.3.3, doubleH3lix for some 64-bit devices on 10.x, and Meridian for 64-bit devices on 10.x.
 
-Sine iOS 10.3.3 is the last update for iPhone 5C, it means that the jailbreak process can be repeated even if one of your team mates updates your iPhone by accident (yes, that happened to me).
+Since iOS 10.3.3 is the last update for iPhone 5C, it means that the jailbreak process can be repeated even if one of your team mates updates your iPhone by accident (yes, that happened to me).
 
 1. Download h3lix jailbreak from https://h3lix.tihmstar.net/.
 2. Have the following information on hand - Apple ID and one set of app-specific password. This assumes your Apple ID is protected with two factor authentication (which it should).
