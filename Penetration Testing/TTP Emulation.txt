@@ -1,0 +1,7 @@
+The following are some repositories that emulate enumeration of TTPs(Tactics, Techniques and Procedures), adversarial simulation or part thereof:
+- https://github.com/mitre/caldera
+- https://github.com/uber-common/metta
+- https://github.com/redcanaryco/atomic-red-team
+- https://github.com/endgameinc/RTA
+- https://github.com/NextronSystems/APTSimulator
+- https://github.com/alphasoc/flightsim
